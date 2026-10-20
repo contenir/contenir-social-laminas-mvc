@@ -1,0 +1,11 @@
+<?php
+
+/**
+ * @var Laminas\View\Renderer\PhpRenderer $this
+ */
+$this->headTitle('Winners');
+$this->headMeta()->setProperty('og:url', 'https://www.example.com/winners');
+$this->headMeta()->setProperty('og:title', 'The 2026 winners');
+?>
+<header><?= $this->socialProfiles() ?></header>
+<main><?= $this->share() ?><?= $this->share() ?></main>
