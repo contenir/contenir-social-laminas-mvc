@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:contenir/contenir-social.git",
-                "reference": "a3f9e18afbd8320c3bb8c04c8dba903efe9d0a81"
+                "reference": "7598911046af8f91322a6fb783a27521f762a332"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/contenir/contenir-social/zipball/a3f9e18afbd8320c3bb8c04c8dba903efe9d0a81",
-                "reference": "a3f9e18afbd8320c3bb8c04c8dba903efe9d0a81",
+                "url": "https://api.github.com/repos/contenir/contenir-social/zipball/7598911046af8f91322a6fb783a27521f762a332",
+                "reference": "7598911046af8f91322a6fb783a27521f762a332",
                 "shasum": ""
             },
             "require": {
@@ -93,7 +93,7 @@
                 "issues": "https://github.com/contenir/contenir-social/issues",
                 "source": "https://github.com/contenir/contenir-social"
             },
-            "time": "2026-10-20T23:27:15+00:00"
+            "time": "2026-10-20T23:38:37+00:00"
         },
         {
             "name": "laminas/laminas-escaper",
