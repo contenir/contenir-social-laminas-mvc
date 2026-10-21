@@ -1,9 +1,9 @@
-# contenir/social-laminas-mvc
+# contenir/contenir-social-laminas-mvc
 
 [![Continuous Integration](https://github.com/contenir/contenir-social-laminas-mvc/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/contenir/contenir-social-laminas-mvc/actions/workflows/continuous-integration.yml)
 [![codecov](https://codecov.io/gh/contenir/contenir-social-laminas-mvc/graph/badge.svg)](https://codecov.io/gh/contenir/contenir-social-laminas-mvc)
 
-The Laminas MVC view helpers for [contenir/social](https://github.com/contenir/contenir-social):
+The Laminas MVC view helpers for [contenir/contenir-social](https://github.com/contenir/contenir-social):
 
 - `socialProfiles()` writes the site's profiles as escaped links with `rel="me"`, icons and accessible names;
 - `share()` writes the page's share buttons, built from the page's own metadata, and the small script behind
@@ -21,7 +21,7 @@ the site.
 ## Install
 
 ```bash
-composer require contenir/social-laminas-mvc
+composer require contenir/contenir-social-laminas-mvc
 ```
 
 Add `Contenir\Social\Laminas\Mvc` to the application's modules (laminas-component-installer offers to).
@@ -125,4 +125,4 @@ return [
 
 ## Licence
 
-BSD-3-Clause. See [LICENSE.md](LICENSE.md). The icons' licences are in contenir/social's ICONS.md.
+BSD-3-Clause. See [LICENSE.md](LICENSE.md). The icons' licences are in contenir/contenir-social's ICONS.md.

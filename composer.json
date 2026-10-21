@@ -1,6 +1,6 @@
 {
-    "name": "contenir/social-laminas-mvc",
-    "description": "Laminas MVC view helpers for contenir/social: socialProfiles() writes a site's profile links and share() a page's share buttons, from the CMS's settings and the page's own metadata.",
+    "name": "contenir/contenir-social-laminas-mvc",
+    "description": "Laminas MVC view helpers for contenir/contenir-social: socialProfiles() writes a site's profile links and share() a page's share buttons, from the CMS's settings and the page's own metadata.",
     "type": "library",
     "license": "BSD-3-Clause",
     "keywords": [
@@ -18,7 +18,7 @@
     },
     "require": {
         "php": "~8.3.0 || ~8.4.0 || ~8.5.0",
-        "contenir/social": "^0.1",
+        "contenir/contenir-social": "^0.1",
         "laminas/laminas-http": "^2.19",
         "laminas/laminas-servicemanager": "^3.22 || ^4.0",
         "laminas/laminas-view": "^2.30",

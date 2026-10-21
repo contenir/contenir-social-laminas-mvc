@@ -8,7 +8,10 @@ adheres to [Semantic Versioning](https://semver.org/).
 
 ### Changed
 
-- Requires contenir/social `^0.1`, from its repository until it is listed on Packagist.
+- The package is named `contenir/contenir-social-laminas-mvc`, after its repository, as every Contenir library is.
+  It was `contenir/social-laminas-mvc`; the namespace, `Contenir\Social\Laminas\Mvc\`, is unchanged.
+- Requires the library under its new name, `contenir/contenir-social` `^0.1`, from its repository until it is listed
+  on Packagist.
 
 ### Added
 
