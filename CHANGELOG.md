@@ -8,8 +8,7 @@ adheres to [Semantic Versioning](https://semver.org/).
 
 ### Changed
 
-- Requires contenir/social from its main branch (`0.1.x-dev`), now that the library is merged, until it is tagged
-  and `^0.1` can come from Packagist.
+- Requires contenir/social `^0.1`, from its repository until it is listed on Packagist.
 
 ### Added
 
