@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b567996bd88dfc67b1c309b306d72c83",
+    "content-hash": "298a30d91618931b58d2617f1d6c688c",
     "packages": [
         {
             "name": "contenir/social",
-            "version": "dev-feat/library",
+            "version": "dev-main",
             "source": {
                 "type": "git",
                 "url": "git@github.com:contenir/contenir-social.git",
-                "reference": "7598911046af8f91322a6fb783a27521f762a332"
+                "reference": "cde4b411b61b35d9019b592683180cacfda54b8e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/contenir/contenir-social/zipball/7598911046af8f91322a6fb783a27521f762a332",
-                "reference": "7598911046af8f91322a6fb783a27521f762a332",
+                "url": "https://api.github.com/repos/contenir/contenir-social/zipball/cde4b411b61b35d9019b592683180cacfda54b8e",
+                "reference": "cde4b411b61b35d9019b592683180cacfda54b8e",
                 "shasum": ""
             },
             "require": {
@@ -28,6 +28,7 @@
                 "infection/infection": "^0.34.1",
                 "phpunit/phpunit": "^11.5.42"
             },
+            "default-branch": true,
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -93,7 +94,7 @@
                 "issues": "https://github.com/contenir/contenir-social/issues",
                 "source": "https://github.com/contenir/contenir-social"
             },
-            "time": "2026-10-20T23:38:37+00:00"
+            "time": "2026-10-20T23:54:40+00:00"
         },
         {
             "name": "laminas/laminas-escaper",
@@ -5138,14 +5139,7 @@
             "time": "2026-10-05T23:14:19+00:00"
         }
     ],
-    "aliases": [
-        {
-            "package": "contenir/social",
-            "version": "dev-feat/library",
-            "alias": "0.1.x-dev",
-            "alias_normalized": "0.1.9999999.9999999-dev"
-        }
-    ],
+    "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
         "contenir/social": 20,
