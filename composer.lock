@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e5b3f85033cb2a698db34ed51095a8ab",
+    "content-hash": "d2a6c9ef97d9613abe57bf5d580097dd",
     "packages": [
         {
-            "name": "contenir/social",
+            "name": "contenir/contenir-social",
             "version": "v0.1.0",
             "source": {
                 "type": "git",
                 "url": "git@github.com:contenir/contenir-social.git",
-                "reference": "a4f3b3ecd30975b2dd4cb358b125597004e5369e"
+                "reference": "5be421a712537a40a957a4c0b13c511d9d97a4e4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/contenir/contenir-social/zipball/a4f3b3ecd30975b2dd4cb358b125597004e5369e",
-                "reference": "a4f3b3ecd30975b2dd4cb358b125597004e5369e",
+                "url": "https://api.github.com/repos/contenir/contenir-social/zipball/5be421a712537a40a957a4c0b13c511d9d97a4e4",
+                "reference": "5be421a712537a40a957a4c0b13c511d9d97a4e4",
                 "shasum": ""
             },
             "require": {
@@ -93,7 +93,7 @@
                 "issues": "https://github.com/contenir/contenir-social/issues",
                 "source": "https://github.com/contenir/contenir-social"
             },
-            "time": "2026-10-21T00:15:45+00:00"
+            "time": "2026-10-21T00:44:01+00:00"
         },
         {
             "name": "laminas/laminas-escaper",
