@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "298a30d91618931b58d2617f1d6c688c",
+    "content-hash": "e5b3f85033cb2a698db34ed51095a8ab",
     "packages": [
         {
             "name": "contenir/social",
-            "version": "dev-main",
+            "version": "v0.1.0",
             "source": {
                 "type": "git",
                 "url": "git@github.com:contenir/contenir-social.git",
-                "reference": "cde4b411b61b35d9019b592683180cacfda54b8e"
+                "reference": "a4f3b3ecd30975b2dd4cb358b125597004e5369e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/contenir/contenir-social/zipball/cde4b411b61b35d9019b592683180cacfda54b8e",
-                "reference": "cde4b411b61b35d9019b592683180cacfda54b8e",
+                "url": "https://api.github.com/repos/contenir/contenir-social/zipball/a4f3b3ecd30975b2dd4cb358b125597004e5369e",
+                "reference": "a4f3b3ecd30975b2dd4cb358b125597004e5369e",
                 "shasum": ""
             },
             "require": {
@@ -28,7 +28,6 @@
                 "infection/infection": "^0.34.1",
                 "phpunit/phpunit": "^11.5.42"
             },
-            "default-branch": true,
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -80,7 +79,7 @@
             "license": [
                 "BSD-3-Clause"
             ],
-            "description": "Framework-free social profiles and share links for Contenir: a network catalogue, profile URL checks for ten networks, share links with no third-party scripts, inline SVG icons and a small script for Copy link and Share.",
+            "description": "Framework-free social profiles and share links for Contenir: a network catalogue, profile URL checks for twelve networks, share links with no third-party scripts, inline SVG icons and a small script for Copy link and Share.",
             "homepage": "https://contenir.com.au",
             "keywords": [
                 "contenir",
@@ -94,7 +93,7 @@
                 "issues": "https://github.com/contenir/contenir-social/issues",
                 "source": "https://github.com/contenir/contenir-social"
             },
-            "time": "2026-10-20T23:54:40+00:00"
+            "time": "2026-10-21T00:15:45+00:00"
         },
         {
             "name": "laminas/laminas-escaper",
@@ -5142,7 +5141,6 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "contenir/social": 20,
         "contenir/contenir-qa-tools": 20
     },
     "prefer-stable": true,
